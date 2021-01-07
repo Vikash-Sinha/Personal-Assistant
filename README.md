@@ -4,10 +4,10 @@ In this application you can talk with Assistant, play video from YouTube, listen
  
 # Package required
 
-import time
-import chromedriver_binary
-import os
-from selenium import webdriver
-import pyttsx3
-from playsound import playsound
-import speech_recognition as sr
+1. time
+2. chromedriver_binary
+3. os
+4. selenium 
+5. pyttsx3
+6. playsound
+7. speech_recognition
